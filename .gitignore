@@ -1,0 +1,32 @@
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+debug.log
+
+# Fichiers sensibles
+wp-config.php
+.env
+
+# Uploads (générés dynamiquement)
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+wp-content/advanced-cache.php
+
+# Backups
+*.sql
+*.zip
+*.tar.gz
+
+# Fichiers générés
+sitemap.xml
+sitemap_index.xml
+
+# Fichiers temporaires PHP
+*.tmp
