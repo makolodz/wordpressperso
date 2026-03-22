@@ -6,7 +6,7 @@ Une landing page simple avec testimonials et sponsors, construite sans plugin �
 ---
 
 
-![Capture d'écran du site](/Pomodoro.jpg)
+![Capture d'écran du site](/Pomodoro.png)
 
  
 ## 📋 Objectif

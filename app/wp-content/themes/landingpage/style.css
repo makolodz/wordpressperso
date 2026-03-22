@@ -49,12 +49,11 @@ table {
 }
 
 #header--nav {
-	padding-inline: 64px;
-	width: calc(100% - 128px);
+	width: 100%;
 	height: 80px;
 	position: fixed;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
 
 }
