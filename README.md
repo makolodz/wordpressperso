@@ -1,6 +1,6 @@
 # 🎯 WP Landing Theme
  
-Thème WordPress minimaliste conçu comme **terrain de jeu pour développeurs**.  
+Thème WordPress minimaliste pour tester les fonctionnalités de wordpress comme **Headless CMS**.
 Une landing page simple avec testimonials et sponsors, construite sans plugin — uniquement avec les APIs natives de WordPress.
  
 ---
