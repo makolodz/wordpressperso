@@ -46,7 +46,3 @@ wp-landing-theme/
  
 - Aucune dépendance externe — zéro plugin requis
 - Compatible WordPress 6.x
-  
----
- 
-
